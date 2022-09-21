@@ -2,7 +2,9 @@
 
 For this lab, you need to have some ground understanding of pytorch, and basics introduction is available [here](https://pytorch.org/tutorials/beginner/basics/intro.html).
 
+```math
 $\newcommand{\underbr}[2]{\underbrace{#1}_{\scriptscriptstyle{#2}}}$
+```
 
 ### Objective
 
