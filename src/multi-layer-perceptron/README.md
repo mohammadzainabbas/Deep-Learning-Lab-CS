@@ -1,3 +1,7 @@
-## Basic of Dee
-## Objective
+## Basics of Deep Learning and Pytorch
+
+
+### Objective
+
+
 
