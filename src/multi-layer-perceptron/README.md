@@ -78,11 +78,9 @@ Based on the previous formulas, write the corresponding backpropagation algorith
     - $V_{dW}(t) = \beta V_{dW}(t-1) + (1-\beta) dW$
     - $W(t) = W(t-1) - \alpha V_{dW}(t)$
 
-## Your task:
-
-You need to add the missing parts in the code (parts between ```# --- START CODE HERE``` and ```# --- END CODE HERE```)
-
+---
 ## Testing
 
 For testing your code, you can use the code provided in the last cells (loop over epochs and display of the loss decrease).
+
 You should observe a loss which decreases over epochs and see higher training accuracy.
