@@ -41,12 +41,10 @@ or consider installing `mambaforge` (for details, checkout [this](https://stacko
 brew install mambaforge
 ```
 
+#### 1. Install the TensorFlow dependencies:
 
-
-Step 1: Install the TensorFlow dependencies:
-
-```
-$ conda install -c apple tensorflow-deps
+```bash
+conda install -c apple tensorflow-deps
 ```
 
 Step 2: Install base TensorFlow
