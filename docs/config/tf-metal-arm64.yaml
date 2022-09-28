@@ -12,4 +12,4 @@ dependencies:
   - pip:
     - tensorflow-macos
     - tensorflow-metal  ## optional, but recommended
-    - torch
+    - torch ## if you want to use pytorch as well
