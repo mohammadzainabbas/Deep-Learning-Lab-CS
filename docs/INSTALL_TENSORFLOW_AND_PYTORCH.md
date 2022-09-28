@@ -24,13 +24,20 @@ mamba env create -n machine_learning -f docs/config/tf-metal-arm64.yaml
 
 
 
-
 ### Installation Commands
 
-Step 0: Download Miniforge3-MacOSX-arm64.sh from URL below:
+> If you have `Anaconda` installed already, you have to uninstall it first (at the time of writing, you can not install required dependencies on `Anaconda` installation for `conda`)
+#### 1. Download `Miniforge` OR `Mambaforge` via `brew`:
 
+Before starting, make sure to install `conda` via `Miniforge` or `Mambaforge`. 
+
+```bash
+brew install mambaforge
 ```
-URL: https://github.com/conda-forge/miniforge/releases/latest/download/Miniforge3-MacOSX-arm64.sh 
+
+
+```bash
+
 ```
 
 Step 0: Install Miniforge3-MacOSX-arm64.sh as below:
