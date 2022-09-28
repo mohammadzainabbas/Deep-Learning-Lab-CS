@@ -18,3 +18,26 @@ We will compare the accuracy on the test set for all networks.
 
 Finally, we will also make use of Data Augmentation to further improve the generalization of our custom model to the testing data.
 
+### Custom Made CNN
+
+Our networks will be implemented as follows:
+
+  - a Convolutional layer of 32 filters of shape (3,3), with stride (1,1) and padding='same'
+  - a ReLu activation function
+
+  - a Convolutional layer of 32 filters of shape (3,3), with stride (1,1) and padding='same'
+  - a ReLu activation function
+  - a Max Pooling Layer of shape (2,2) and stride (2,2) (i.e. we reduce by two the size in each dimension)
+
+  - a Convolutional layer of 32 filters of shape (3,3), with stride (1,1) and padding='same'
+  - a ReLu activation function
+  - a Max Pooling Layer of shape (2,2) and stride (2,2) (i.e. we reduce by two the size in each dimension)
+
+  - We then Flatten the data (reduce them to a vector in order to be able to apply a Fully-Connected layer to it)
+
+  - a Fully-Connected layer of output size 10
+
+
+We will optimize it using the SGD optimizer with $lr = 0.01$, $momentum = 0.9$ and the cross-entropy loss.
+
+In this lab, in order to speed-up computations, we will use the GPU, so do not forget [to put on GPU](https://pytorch.org/docs/stable/notes/cuda.html) every objects required, we will remind you when it is needed.
