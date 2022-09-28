@@ -1,4 +1,4 @@
-
+## TensorFlow and PyTorch on Apple Metal Hardware Accelerated Graphics
 
 In order to get native support for Mac M1 (or other Apple Silicon chips), you have to follow [this](https://developer.apple.com/metal/tensorflow-plugin/) guide.
 
@@ -22,7 +22,7 @@ mamba env create -n machine_learning -f docs/config/tf-metal-arm64.yaml
 ```
 
 
-# TensorFlow and PyTorch on Apple Metal Hardware Accelerated Graphics # 
+
 
 
 ## Installation Commands
