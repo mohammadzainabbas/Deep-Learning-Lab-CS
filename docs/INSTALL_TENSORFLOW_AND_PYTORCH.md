@@ -59,13 +59,13 @@ python -m pip install tensorflow-macos
 python -m pip install tensorflow-metal
 ```
 
-Step 4: Install tensorflow-addons package (Optional)
+#### 1. Install tensorflow-addons package (Optional)
 
-```
-$ python -m pip install tensorflow-addons
+```bash
+python -m pip install tensorflow-addons
 ```
 
-Step 5: Install PyTorch package
+#### 1. Install PyTorch package
 
 ```
 $ python -m pip install torch
