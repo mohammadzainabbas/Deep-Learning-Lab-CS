@@ -67,14 +67,13 @@ python -m pip install tensorflow-addons
 
 #### 1. Install PyTorch package
 
-```
-$ python -m pip install torch
+```bash
+python -m pip install torch
 ```
 
+### Test or Validation:
 
-## Test or Validation:
-
-```
+```txt
 > import torch
 
 > torch.backends.mps.is_available()
