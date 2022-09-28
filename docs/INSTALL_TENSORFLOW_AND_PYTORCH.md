@@ -47,16 +47,16 @@ brew install mambaforge
 conda install -c apple tensorflow-deps
 ```
 
-Step 2: Install base TensorFlow
+#### 1. Install base TensorFlow
 
-```
-$ python -m pip install tensorflow-macos
+```bash
+python -m pip install tensorflow-macos
 ```
 
-Step 3: Install tensorflow-metal plugin
+#### 1. Install tensorflow-metal plugin
 
-```
-$ python -m pip install tensorflow-metal
+```bash
+python -m pip install tensorflow-metal
 ```
 
 Step 4: Install tensorflow-addons package (Optional)
