@@ -3,8 +3,6 @@
 In order to get native support for Mac M1 (or other Apple Silicon chips), you have to follow [this](https://developer.apple.com/metal/tensorflow-plugin/) guide.
 
 
-However, 
-
 ```bash
 brew install mambaforge
 ```
@@ -85,7 +83,7 @@ True
 > import tensorflow as tf
 > tf.test.is_gpu_available()
 
-Metal device set to: Apple M1 Pro
+Metal device set to: Apple M1
 
 systemMemory: 16.00 GB
 maxCacheSize: 5.33 GB
@@ -98,7 +96,7 @@ maxCacheSize: 5.33 GB
 
 ```
 
-## Resources:
+### Resources:
 
 - https://developer.apple.com/metal/tensorflow-plugin/
 - https://developer.apple.com/metal/
