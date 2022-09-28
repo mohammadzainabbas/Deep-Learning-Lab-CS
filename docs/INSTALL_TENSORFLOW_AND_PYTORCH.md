@@ -32,6 +32,12 @@ mamba env create -n machine_learning -f docs/config/tf-metal-arm64.yaml
 Before starting, make sure to install `conda` via `Miniforge` or `Mambaforge`. 
 
 ```bash
+brew install miniforge
+```
+
+or
+
+```bash
 brew install mambaforge
 ```
 
