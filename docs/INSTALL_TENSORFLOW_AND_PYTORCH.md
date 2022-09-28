@@ -35,7 +35,7 @@ Before starting, make sure to install `conda` via `Miniforge` or `Mambaforge`.
 brew install miniforge
 ```
 
-or consider installing `mambaforge`. (for details, checkout [this](https://stackoverflow.com/a/72970797/6390175) answer)
+or consider installing `mambaforge` (for details, checkout [this](https://stackoverflow.com/a/72970797/6390175) answer).
 
 ```bash
 brew install mambaforge
