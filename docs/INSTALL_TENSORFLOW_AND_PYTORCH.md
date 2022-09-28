@@ -3,7 +3,7 @@
 In order to get native support for Mac M1 (or other Apple Silicon chips), you have to follow [this](https://developer.apple.com/metal/tensorflow-plugin/) guide.
 
 
-However, instead of installing `conda`, consider installing `mambaforge`. (for details, checkout [this](https://stackoverflow.com/a/72970797/6390175) answer)
+However, 
 
 ```bash
 brew install mambaforge
@@ -35,7 +35,7 @@ Before starting, make sure to install `conda` via `Miniforge` or `Mambaforge`.
 brew install miniforge
 ```
 
-or
+or consider installing `mambaforge`. (for details, checkout [this](https://stackoverflow.com/a/72970797/6390175) answer)
 
 ```bash
 brew install mambaforge
