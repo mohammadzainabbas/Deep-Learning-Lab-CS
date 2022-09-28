@@ -8,7 +8,7 @@ $\newcommand{\underbr}[2]{\underbrace{#1}_{\scriptscriptstyle{#2}}}$
 
 ### Objective
 
-We want to implement __Convolutional Neural Networks__ (CNNs) to classify correctly images for the [CIFAR10 dataset](https://www.cs.toronto.edu/~kriz/cifar.html).
+We want to implement `Convolutional Neural Networks` (CNNs) to classify correctly images for the [CIFAR10 dataset](https://www.cs.toronto.edu/~kriz/cifar.html).
 
 The CIFAR-10 dataset consists of 60 000 32x32 colour images in 10 classes, with 6 000 images per class. There are 50 000 training images and 10 000 test images.
 
@@ -17,30 +17,6 @@ We will first design a custom made CNN using Pytorch to make the classification 
 We will compare the accuracy on the test set for all networks.
 
 Finally, we will also make use of Data Augmentation to further improve the generalization of our custom model to the testing data.
-
-Follow the TP sequentially, otherwise you could spoil yourself answers of the first part :) 
-
-We want to implement a two layers `Multi-Layer Perceptron` (MLP) with 1 hidden layer in Pytorch, for a binary classification problem.
-
-The output of the network is simply the output of several cascaded functions :
-- Linear transformations. We note the weights of a linear transformation with $W$
-- Additive biases. We note the parameters of additive biases  with $b$
-- Non-linearities.
-
-For this, we will implement in the first part of the lab:
-- the forward propagation
-- the computation of the loss
-- the backward propagation (to obtain the gradients)
-- the update of the parameters
-
-In the second part we will simply use pytorch API with a multi-classification problem.
-
-Furthermore, we define the following sizes :
-
-- $n^{[0]}$ : number of input neurons
-- $n^{[1]}$ : number of neurons in hidden layer
-- $n^{[2]}$ : number of neurons in output layer
-- $m$ : number of training datapoints
 
 ### Loss function 
 
