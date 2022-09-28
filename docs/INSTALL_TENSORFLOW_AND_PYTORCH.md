@@ -25,7 +25,7 @@ mamba env create -n machine_learning -f docs/config/tf-metal-arm64.yaml
 
 
 
-## Installation Commands
+### Installation Commands
 
 Step 0: Download Miniforge3-MacOSX-arm64.sh from URL below:
 
