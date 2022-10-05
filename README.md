@@ -1,4 +1,4 @@
-## Lab Work @ Deep Learning at  👨🏻‍💻
+## Lab Work @ Deep Learning at CentraleSupélec 👨🏻‍💻
 
 ### Table of contents
 
