@@ -5,6 +5,5 @@
 commit.sh
 update_git.py
 
-# Ignore these folders
-
-src/**/data
+# Ignore data folders
+src/**/data/*
