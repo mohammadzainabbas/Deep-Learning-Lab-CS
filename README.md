@@ -1,4 +1,4 @@
-## Lab Work @ Massive Graph Management and Analytics 👨🏻‍💻
+## Lab Work @ Deep Learning at  👨🏻‍💻
 
 ### Table of contents
 
