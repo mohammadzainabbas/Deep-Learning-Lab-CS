@@ -4,3 +4,7 @@
 # Ignore these files
 commit.sh
 update_git.py
+
+# Ignore these folders
+
+src/**/data
