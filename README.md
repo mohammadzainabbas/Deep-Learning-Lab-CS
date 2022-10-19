@@ -75,7 +75,7 @@ Please check more details [here](https://github.com/mohammadzainabbas/Deep-Learn
 
 #### 3.3. Lab 03 - Generative Models for images
 
-Please check more details [here](https://github.com/mohammadzainabbas/Deep-Learning-Lab-CS/tree/main/src/convolutional-neural-network)
+Please check more details [here](https://github.com/mohammadzainabbas/Deep-Learning-Lab-CS/tree/main/src/generative-networks)
 
 
 <a id="lab-4" />
@@ -86,6 +86,7 @@ Please check more details [here](https://github.com/mohammadzainabbas/Deep-Learn
 
 #### 3.5. Lab 05 - Natural Language Processing with data processing and finetuning
 
+> Stay tuned
 
 #
 
