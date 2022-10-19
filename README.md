@@ -40,8 +40,10 @@ At the end of this course you will be able to:
 
 - [x] Introduction + Machine Learning Basics + Deep Neural Networks: fundamentals
 - [x] Deep Neural Networks: Optimization and Regularization
-- [x] Label propagation, Community detection, Influence maximisation
-- [x] Graph analytics & Deep Learning
+- [x] Convolutional Neural Networks
+- [x] Generative Models
+- [x] Recurrent Neural Networks, attention and transformers
+- [x] Recurrent Neural Networks, attention and transformers
 
 #
 
