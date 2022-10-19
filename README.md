@@ -59,6 +59,17 @@ The main aim of this repository is to keep track of the work we have done in __M
 
 #
 
+
+[Lab 01 - Manual implementation of Neural Networks and basics of Pytorch](#lab-1)
+
+[Lab 02 - Convolutional Neural Networks and Finetuning](#lab-2)
+
+[Lab 03 - Generative Models for images](#lab-3)
+
+[Lab 04 - Action classification for videos](#lab-4)
+
+[Lab 05 - Natural Language Processing with data processing and finetuning](#lab-5)
+
 <a id="lab-1" />
 
 #### 3.1. Lab 01 - NetworkX
