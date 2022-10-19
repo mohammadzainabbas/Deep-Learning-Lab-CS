@@ -13,8 +13,6 @@
   * [Lab 04 - Action classification for videos](#lab-4)
   * [Lab 05 - Natural Language Processing with data processing and finetuning](#lab-5)
 - [Setup](#setup)
-  * [Create new enviornment](#create-new-env)
-  * [Setup `pre-commit` hooks](#setup-pre-commit)
 
 
 #
