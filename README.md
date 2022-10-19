@@ -38,8 +38,8 @@ At the end of this course you will be able to:
 
 #### 2.1. Main Topics
 
-- [x] Preliminaries, Typology of graphs, Graph analytics measures
-- [x] Basic algorithms: Random walk and Page Rank
+- [x] Introduction + Machine Learning Basics + Deep Neural Networks: fundamentals
+- [x] Deep Neural Networks: Optimization and Regularization
 - [x] Label propagation, Community detection, Influence maximisation
 - [x] Graph analytics & Deep Learning
 
