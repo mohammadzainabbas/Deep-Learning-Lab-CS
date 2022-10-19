@@ -62,26 +62,23 @@ The main aim of this repository is to keep track of the work we have done in __M
 <a id="lab-1" />
 
 #### 3.1. Lab 01 - Manual implementation of Neural Networks and basics of Pytorch
+
 <a id="lab-2" />
 
 #### 3.2. Lab 02 - Convolutional Neural Networks and Finetuning
+
 <a id="lab-3" />
 
 #### 3.3. Lab 03 - Generative Models for images
+
 <a id="lab-4" />
 
 #### 3.4. Lab 04 - Action classification for videos
+
 <a id="lab-5" />
 
 #### 3.5. Lab 05 - Natural Language Processing with data processing and finetuning
 
-<a id="lab-1" />
-
-#### 3.1. Lab 01 - NetworkX
-
-[NetworkX](https://networkx.org/) is a Python package for the creation, manipulation, and study of the structure, dynamics, and functions of complex networks.
-
-Please checkout lab's details [here](https://github.com/mohammadzainabbas/MGMA-Lab/tree/main/src/lab1) 
 
 #
 
