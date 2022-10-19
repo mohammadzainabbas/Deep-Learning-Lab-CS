@@ -29,14 +29,10 @@ We will take interest in various domains of Deep Learning such as _Computer Visi
 
 ### 2. About the course
 
-Data we produce or consume has increasingly networked structures which have grown in complexity in different domains such as `biology`, `social networks`, `economy`, `communication` and `transport networks`. The need to process and to analyze such data carries out the emergence of network science research community to define algorithms which allow to characterize such complex structures, to understand their topology, their evolution and to interpret the underlying phenomena. 
-
-Besides, the distributed storage and parallel computation technologies offer specific tools for networks based on large-scale graph processing paradigms such as `MapReduce` and `Pregel` of Google.
-
 At the end of this course you will be able to:
 
-- [x] Perform the training of Deep Learning models as well as evaluate their performance
-- [x] Discuss and provide solutions to various tasks in Computer Vision, Generative Models, Natural Language Processing
+- [x] Perform the training of _Deep Learning models_ as well as evaluate their performance
+- [x] Discuss and provide solutions to various tasks in _Computer Vision_, _Generative Models_, _Natural Language Processing_ etc
 
 <a id="main-topics" />
 
