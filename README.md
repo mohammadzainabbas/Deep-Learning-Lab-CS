@@ -94,6 +94,9 @@ Please check more details [here](https://github.com/mohammadzainabbas/Deep-Learn
 
 ### 4. Setup
 
+Before starting, you may have to create new enviornment for the lab.
+
+
 If you want to follow along with the lab exercises, make sure to clone and `cd` to the relevant lab's directory:
 
 ```bash
