@@ -1,7 +1,7 @@
 ## Lab Work @ Deep Learning at CentraleSupélec 👨🏻‍💻
 
 #
-<!-- ### Table of contents
+### Table of contents
 
 - [Introduction](#introduction)
 - [About the course](#about-course)
@@ -96,4 +96,4 @@ pip install -r requirements.txt
 In order to setup `pre-commit` hooks, please refer to the [documentation](https://github.com/mohammadzainabbas/MGMA-Lab/blob/main/docs/SETUP_PRE-COMMIT_HOOKS.md).
 
 #
- -->
+
