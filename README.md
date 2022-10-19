@@ -13,8 +13,6 @@
   * [Lab 04 - Action classification for videos](#lab-4)
   * [Lab 05 - Natural Language Processing with data processing and finetuning](#lab-5)
 - [Setup](#setup)
-  * [Create new enviornment](#create-new-env)
-  * [Setup `pre-commit` hooks](#setup-pre-commit)
 
 
 #
@@ -55,7 +53,7 @@ At the end of this course you will be able to:
 
 ### 3. Labs
 
-The main aim of this repository is to keep track of the work we have done in __Massive Graph Management and Analytics (MGMA)__ labs. During this course, we will focus on some basic graph algorithms and see how we can utilise these algorithms to efficiently analyse our data. Since, there exist many similarities between graph theory and network science, you will see us using network science related packages as well.
+The main aim of this repository is to keep track of the work we have done in __Deep Learning (DL)__ labs.
 
 #
 
@@ -96,6 +94,10 @@ Please check more details [here](https://github.com/mohammadzainabbas/Deep-Learn
 
 ### 4. Setup
 
+Before starting, you may have to create new enviornment for the lab. Kindly, checkout the [documentation](https://github.com/mohammadzainabbas/Deep-Learning-Lab-CS/blob/main/docs/SETUP_ENV.md) for creating an new environment.
+
+#
+
 If you want to follow along with the lab exercises, make sure to clone and `cd` to the relevant lab's directory:
 
 ```bash
@@ -105,25 +107,4 @@ cd Deep-Learning-Lab-CS/src/<lab-of-your-choice>
 
 > For e.g: if you want to practice lab # 1, then you should do `cd Deep-Learning-Lab-CS/src/multi-layer-perceptron`.
 
-<a id="create-new-env" />
-
-#### 4.1. Create new enviornment
-
-Before starting, you may have to create new enviornment for the lab. Kindly, checkout the [documentation](https://github.com/mohammadzainabbas/Deep-Learning-Lab-CS/blob/main/docs/SETUP_ENV.md) for creating an new environment.
-
 #
-
-Once, you have activated your new enviornment, we may have to install all the dependencies for a given lab (kindly check if `requirements.txt` file exists for a given lab before running the below command):
-
-```bash
-pip install -r requirements.txt
-```
-
-<a id="setup-pre-commit" />
-
-#### 4.2. Setup `pre-commit` hooks
-
-In order to setup `pre-commit` hooks, please refer to the [documentation](https://github.com/mohammadzainabbas/Deep-Learning-Lab-CS/blob/main/docs/SETUP_PRE-COMMIT_HOOKS.md).
-
-#
-
