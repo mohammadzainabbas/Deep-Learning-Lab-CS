@@ -33,7 +33,10 @@ Data we produce or consume has increasingly networked structures which have grow
 
 Besides, the distributed storage and parallel computation technologies offer specific tools for networks based on large-scale graph processing paradigms such as `MapReduce` and `Pregel` of Google.
 
-The purpose of this course is to study the main algorithms and their implementation on artificial and real data in a distributed environment.
+At the end of this course you will be able to:
+
+- [x] Perform the training of Deep Learning models as well as evaluate their performance
+- [x] Discuss and provide solutions to various tasks in Computer Vision, Generative Models, Natural Language Processing
 
 <a id="main-topics" />
 
