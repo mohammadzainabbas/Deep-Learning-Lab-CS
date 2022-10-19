@@ -86,7 +86,7 @@ Please check more details [here](https://github.com/mohammadzainabbas/Deep-Learn
 
 #### 3.5. Lab 05 - Natural Language Processing with data processing and finetuning
 
-> Stay tuned
+> Stay tuned!
 
 #
 
