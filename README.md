@@ -10,6 +10,8 @@
   * [Lab 01 - Manual implementation of Neural Networks and basics of Pytorch](#lab-1)
   * [Lab 01 - Convolutional Neural Networks and Finetuning](#lab-1)
   * [Lab 01 - Generative Models for images](#lab-1)
+  * [Lab 01 - Action classification for videos](#lab-1)
+  * [Lab 01 - Natural Language Processing with data processing and finetuning](#lab-1)
 - [Setup](#setup)
   * [Create new enviornment](#create-new-env)
   * [Setup `pre-commit` hooks](#setup-pre-commit)
