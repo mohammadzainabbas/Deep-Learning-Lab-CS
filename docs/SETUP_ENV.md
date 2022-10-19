@@ -19,13 +19,13 @@
 Before starting further, make sure that you have `conda` (Anaconda) installed (otherwise, create a new env via [virutalenv](#new-env-virtualenv)). We will create a new enviornment for the purpose of our labs:
 
 ```bash
-conda create -n decision_modelling python=3 -y 
+conda create -n machine_learning python=3 -y 
 ```
 
 and activate it
 
 ```bash
-conda activate decision_modelling
+conda activate machine_learning
 ```
 
 <a id="new-env-virtualenv" />
@@ -39,14 +39,14 @@ You can create your virtual enviornment without conda as well. In order to do th
 pip install virtualenv
 ```
 
-Now, create your new enviornment called `decision_modelling`
+Now, create your new enviornment called `machine_learning`
 
 ```bash
-virtualenv -p python3 decision_modelling
+virtualenv -p python3 machine_learning
 ```
 
 and then activate it via
 
 ```bash
-source decision_modelling/bin/activate
+source machine_learning/bin/activate
 ```
