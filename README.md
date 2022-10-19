@@ -63,6 +63,8 @@ The main aim of this repository is to keep track of the work we have done in __M
 
 #### 3.1. Lab 01 - Manual implementation of Neural Networks and basics of Pytorch
 
+Please check more details [here]()
+
 <a id="lab-2" />
 
 #### 3.2. Lab 02 - Convolutional Neural Networks and Finetuning
