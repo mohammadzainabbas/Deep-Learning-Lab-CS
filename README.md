@@ -19,7 +19,9 @@
 
 ### 1. Introduction
 
-__`Data drives the world.`__ Nowadays, most of the data (_structured_ or _unstructured_) can be analysed as a graph. Today, many practical computing problems concern large graphs. Standard examples include the Web graph and various social networks. The scale of these graphs (_in some cases billions of vertices, trillions of edges_) poses challenges to their efficient processing.
+The main goal of this course is to present the basics of `Deep Learning` and some of its _applications_. It is based on several widely known courses that has proven effective such as the [Deep Learning Book]() and Dive into Deep Learning website.
+
+We will take interest in various domains of Deep Learning such as Computer Vision, Generative Models, and Natural Language Processing, To put into application what you will learn, various practical sessions will be performed along with a small project on a specific task.
 
 #
 
