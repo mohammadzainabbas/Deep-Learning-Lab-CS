@@ -82,6 +82,8 @@ Please check more details [here](https://github.com/mohammadzainabbas/Deep-Learn
 
 #### 3.4. Lab 04 - Action classification for videos
 
+Please check more details [here](https://github.com/mohammadzainabbas/Deep-Learning-Lab-CS/tree/main/src/action-classification-for-videos)
+
 <a id="lab-5" />
 
 #### 3.5. Lab 05 - Natural Language Processing with data processing and finetuning
