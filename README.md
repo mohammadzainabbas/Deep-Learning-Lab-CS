@@ -69,11 +69,14 @@ Please check more details [here](https://github.com/mohammadzainabbas/Deep-Learn
 
 #### 3.2. Lab 02 - Convolutional Neural Networks and Finetuning
 
-Please check more details [here](https://github.com/mohammadzainabbas/Deep-Learning-Lab-CS/tree/main/src/multi-layer-perceptron)
+Please check more details [here](https://github.com/mohammadzainabbas/Deep-Learning-Lab-CS/tree/main/src/convolutional-neural-network)
 
 <a id="lab-3" />
 
 #### 3.3. Lab 03 - Generative Models for images
+
+Please check more details [here](https://github.com/mohammadzainabbas/Deep-Learning-Lab-CS/tree/main/src/convolutional-neural-network)
+
 
 <a id="lab-4" />
 
