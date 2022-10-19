@@ -4,7 +4,6 @@
 
 - [Create new enviornment](#create-new-env)
   * [Via conda](#new-env-conda)
-  * [Via mamba](#new-env-mamba)
   * [Via virtualenv](#new-env-virtualenv)
 
 #
