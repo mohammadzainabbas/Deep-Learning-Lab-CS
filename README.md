@@ -43,7 +43,7 @@ At the end of this course you will be able to:
 - [x] Convolutional Neural Networks
 - [x] Generative Models
 - [x] Recurrent Neural Networks, attention and transformers
-- [x] Recurrent Neural Networks, attention and transformers
+- [x] Natural Language Processing
 
 #
 
