@@ -21,7 +21,7 @@
 
 The main goal of this course is to present the basics of `Deep Learning` and some of its _applications_. It is based on several widely known courses that has proven effective such as the [Deep Learning Book](https://www.deeplearningbook.org/) and [Dive into Deep Learning](https://d2l.ai/index.html) website.
 
-We will take interest in various domains of Deep Learning such as Computer Vision, Generative Models, and Natural Language Processing, To put into application what you will learn, various practical sessions will be performed along with a small project on a specific task.
+We will take interest in various domains of Deep Learning such as _Computer Vision_, _Generative Models_, and _Natural Language Processing_, To put into application what you will learn, various practical sessions will be performed along with a small project on a specific task.
 
 #
 
