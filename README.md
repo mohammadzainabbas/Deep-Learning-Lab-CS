@@ -65,44 +65,13 @@ The main aim of this repository is to keep track of the work we have done in __D
 #
 
 
-
-| Lab No. | Topic |
-| :----: | :---: |
-| <a href="https://www.youtube.com/watch?v=OX9HJsJUDxA&list=PLai5B987bZ9CoVR-QEIN9foz4QCJ0H2Y8"><img alt="The Rust Lang Book" src="https://img.youtube.com/vi/OX9HJsJUDxA/0.jpg" width="50%" ></a> | **The Rust Lang Book** |
-
-
-<a id="lab-1" />
-
-#### 3.1. Lab 01 - Manual implementation of Neural Networks and basics of Pytorch
-
-Please check more details [here](https://github.com/mohammadzainabbas/Deep-Learning-Lab-CS/tree/main/src/multi-layer-perceptron)
-
-<a id="lab-2" />
-
-#### 3.2. Lab 02 - Convolutional Neural Networks and Finetuning
-
-Please check more details [here](https://github.com/mohammadzainabbas/Deep-Learning-Lab-CS/tree/main/src/convolutional-neural-network)
-
-<a id="lab-3" />
-
-#### 3.3. Lab 03 - Generative Models for images
-
-Please check more details [here](https://github.com/mohammadzainabbas/Deep-Learning-Lab-CS/tree/main/src/generative-networks)
-
-
-<a id="lab-4" />
-
-#### 3.4. Lab 04 - Action classification for videos
-
-Please check more details [here](https://github.com/mohammadzainabbas/Deep-Learning-Lab-CS/tree/main/src/action-classification-for-videos)
-
-<a id="lab-5" />
-
-#### 3.5. Lab 05 - Natural Language Processing with data processing and finetuning
-
-Please check more details [here](https://github.com/mohammadzainabbas/Deep-Learning-Lab-CS/tree/main/src/natural_language_processing)
-
-#
+| Lab No. | Title | Link |
+| :----: | :---: | :---: |
+| Lab 01 | Manual implementation of Neural Networks and basics of Pytorch | [Link](https://github.com/mohammadzainabbas/Deep-Learning-Lab-CS/tree/main/src/multi-layer-perceptron) |
+| Lab 02 | Convolutional Neural Networks and Finetuning | [Link](https://github.com/mohammadzainabbas/Deep-Learning-Lab-CS/tree/main/src/convolutional-neural-network) |
+| Lab 03 | Generative Models for images | [Link](https://github.com/mohammadzainabbas/Deep-Learning-Lab-CS/tree/main/src/generative-networks) |
+| Lab 04 | Action classification for videos | [Link](https://github.com/mohammadzainabbas/Deep-Learning-Lab-CS/tree/main/src/action-classification-for-videos) |
+| Lab 05 | Natural Language Processing with data processing and finetuning | [Link](https://github.com/mohammadzainabbas/Deep-Learning-Lab-CS/tree/main/src/natural_language_processing) |
 
 <a id="setup" />
 
