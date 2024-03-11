@@ -8,6 +8,10 @@
     </picture> -->
 </div>
 
+
+> [!NOTE]
+> The main aim of this repository is to keep track of the work we have done in __Deep Learning (DL)__ labs.
+
 #
 ### Table of contents
 
@@ -54,9 +58,6 @@ At the end of this course you will be able to:
 <a id="labs" />
 
 ### 3. Labs
-
-> [!NOTE]
-> The main aim of this repository is to keep track of the work we have done in __Deep Learning (DL)__ labs.
 
 | No. | Lab  |
 | :----: | :---: |
