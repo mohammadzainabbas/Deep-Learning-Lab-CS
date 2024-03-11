@@ -78,8 +78,6 @@ The main aim of this repository is to keep track of the work we have done in __D
 
 Before starting, you may have to create new enviornment for the lab. Kindly, checkout the [documentation](https://github.com/mohammadzainabbas/Deep-Learning-Lab-CS/blob/main/docs/SETUP_ENV.md) for creating an new environment.
 
-#
-
 If you want to follow along with the lab exercises, make sure to clone and `cd` to the relevant lab's directory:
 
 ```bash
