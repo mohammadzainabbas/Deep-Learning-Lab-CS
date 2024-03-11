@@ -8,11 +8,11 @@
     </picture> -->
 </div>
 
+#
 
 > [!NOTE]
 > The main aim of this repository is to keep track of the work we have done in __Deep Learning (DL)__ lab at CentraleSupélec. It contains the labs, the setup, and the main topics covered in the course.
 
-#
 ### Table of contents
 
 - [Introduction](#introduction)
