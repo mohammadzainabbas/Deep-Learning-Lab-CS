@@ -1,19 +1,25 @@
-## Lab Work @ Deep Learning at CentraleSupélec 👨🏻‍💻
+<!-- ## Lab Work @ Deep Learning at CentraleSupélec 👨🏻‍💻 -->
+
+<div align="center" style="border: 1px solid #2479c3; padding: 1rem 0 1rem 0; background-color:rgba(56, 139, 253, 0.1);"> 
+    <h3 style="color:rgb(47, 129, 247);" > Lab Work @ Deep Learning </h3>
+    <h6> at CentraleSupélec 👨🏻‍💻</h6>
+    <!-- <picture>
+        <img style="width:20%;visibility:visible;" alt="Rust Lang" src="https://raw.githubusercontent.com/cognitive-engineering-lab/rust-book/979208354d6dae529547acdd2c98e9d253974612/src/img/ferris/not_desired_behavior.svg" width="100">
+    </picture> -->
+</div>
 
 #
+
+> [!NOTE]
+> The main aim of this repository is to keep track of the work we have done in __Deep Learning (DL)__ lab at CentraleSupélec. It contains the labs, the setup, and the main topics covered in the course.
+
 ### Table of contents
 
 - [Introduction](#introduction)
 - [About the course](#about-course)
   * [Main Topics](#main-topics)
 - [Labs](#labs)
-  * [Lab 01 - Manual implementation of Neural Networks and basics of Pytorch](#lab-1)
-  * [Lab 02 - Convolutional Neural Networks and Finetuning](#lab-2)
-  * [Lab 03 - Generative Models for images](#lab-3)
-  * [Lab 04 - Action classification for videos](#lab-4)
-  * [Lab 05 - Natural Language Processing with data processing and finetuning](#lab-5)
 - [Setup](#setup)
-
 
 #
 
@@ -53,40 +59,13 @@ At the end of this course you will be able to:
 
 ### 3. Labs
 
-The main aim of this repository is to keep track of the work we have done in __Deep Learning (DL)__ labs.
-
-#
-
-<a id="lab-1" />
-
-#### 3.1. Lab 01 - Manual implementation of Neural Networks and basics of Pytorch
-
-Please check more details [here](https://github.com/mohammadzainabbas/Deep-Learning-Lab-CS/tree/main/src/multi-layer-perceptron)
-
-<a id="lab-2" />
-
-#### 3.2. Lab 02 - Convolutional Neural Networks and Finetuning
-
-Please check more details [here](https://github.com/mohammadzainabbas/Deep-Learning-Lab-CS/tree/main/src/convolutional-neural-network)
-
-<a id="lab-3" />
-
-#### 3.3. Lab 03 - Generative Models for images
-
-Please check more details [here](https://github.com/mohammadzainabbas/Deep-Learning-Lab-CS/tree/main/src/generative-networks)
-
-
-<a id="lab-4" />
-
-#### 3.4. Lab 04 - Action classification for videos
-
-Please check more details [here](https://github.com/mohammadzainabbas/Deep-Learning-Lab-CS/tree/main/src/action-classification-for-videos)
-
-<a id="lab-5" />
-
-#### 3.5. Lab 05 - Natural Language Processing with data processing and finetuning
-
-Please check more details [here](https://github.com/mohammadzainabbas/Deep-Learning-Lab-CS/tree/main/src/natural_language_processing)
+| No. | Lab  |
+| :----: | :---: |
+| 01 | [Manual implementation of Neural Networks and basics of Pytorch](https://github.com/mohammadzainabbas/Deep-Learning-Lab-CS/tree/main/src/multi-layer-perceptron) |
+| 02 | [Convolutional Neural Networks and Finetuning](https://github.com/mohammadzainabbas/Deep-Learning-Lab-CS/tree/main/src/convolutional-neural-network) |
+| 03 | [Generative Models for images](https://github.com/mohammadzainabbas/Deep-Learning-Lab-CS/tree/main/src/generative-networks) |
+| 04 | [Action classification for videos](https://github.com/mohammadzainabbas/Deep-Learning-Lab-CS/tree/main/src/action-classification-for-videos) |
+| 05 | [Natural Language Processing with data processing and finetuning](https://github.com/mohammadzainabbas/Deep-Learning-Lab-CS/tree/main/src/natural_language_processing) |
 
 #
 
@@ -96,8 +75,6 @@ Please check more details [here](https://github.com/mohammadzainabbas/Deep-Learn
 
 Before starting, you may have to create new enviornment for the lab. Kindly, checkout the [documentation](https://github.com/mohammadzainabbas/Deep-Learning-Lab-CS/blob/main/docs/SETUP_ENV.md) for creating an new environment.
 
-#
-
 If you want to follow along with the lab exercises, make sure to clone and `cd` to the relevant lab's directory:
 
 ```bash
@@ -105,6 +82,11 @@ git clone https://github.com/mohammadzainabbas/Deep-Learning-Lab-CS.git
 cd Deep-Learning-Lab-CS/src/<lab-of-your-choice>
 ```
 
-> For e.g: if you want to practice lab # 1, then you should do `cd Deep-Learning-Lab-CS/src/multi-layer-perceptron`.
+> [!TIP]
+> For e.g: if you want to practice lab #1, then you should do:
+
+```bash
+cd Deep-Learning-Lab-CS/src/multi-layer-perceptron
+```
 
 #
