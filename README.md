@@ -62,9 +62,6 @@ At the end of this course you will be able to:
 
 The main aim of this repository is to keep track of the work we have done in __Deep Learning (DL)__ labs.
 
-#
-
-
 | Lab No. | Title | Link |
 | :----: | :---: | :---: |
 | Lab 01 | Manual implementation of Neural Networks and basics of Pytorch | [Link](https://github.com/mohammadzainabbas/Deep-Learning-Lab-CS/tree/main/src/multi-layer-perceptron) |
@@ -72,6 +69,8 @@ The main aim of this repository is to keep track of the work we have done in __D
 | Lab 03 | Generative Models for images | [Link](https://github.com/mohammadzainabbas/Deep-Learning-Lab-CS/tree/main/src/generative-networks) |
 | Lab 04 | Action classification for videos | [Link](https://github.com/mohammadzainabbas/Deep-Learning-Lab-CS/tree/main/src/action-classification-for-videos) |
 | Lab 05 | Natural Language Processing with data processing and finetuning | [Link](https://github.com/mohammadzainabbas/Deep-Learning-Lab-CS/tree/main/src/natural_language_processing) |
+
+#
 
 <a id="setup" />
 
